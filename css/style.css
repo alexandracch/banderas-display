@@ -1,0 +1,16 @@
+*{
+  margin: 5px;
+}
+
+div {
+  height: 100px;
+}
+
+.yellow{
+  background-color: #FFBE02;
+}
+
+.black{
+  background-color: black;
+  color: white;
+}
