@@ -1,16 +1,16 @@
-/*utilizo un selector unniversal para que todos los elementos de mi stylesheet tengan un un elemento margin que hará que tengan un pequeño margen*/
+/*Utilizo un selector unniversal para que todos los elementos de mi stylesheet tengan un un elemento margin que hará que tengan un pequeño margen*/
 *{
   margin: 5px;
 }
-/*llamo a los div class que indiqué en mi html y les asigno que su altura sea de 100 pixeles*/
+/*Llamo a los div class que indiqué en mi html y les asigno que su altura sea de 100 pixeles*/
 div {
   height: 100px;
 }
-/*llamo a mi selector de clase orange y le asigno un color de fondo*/
+/*Llamo a mi selector de clase orange y le asigno un color de fondo*/
 .orange{
   background-color: #FFBE02;
 }
-/*llamo a mi selector de clase black para asignarle los elementos "background-color" que tiene el valor de color negro, y también un "color" que modifica el color de fuente a blanco*/
+/*Llamo a mi selector de clase black para asignarle los elementos "background-color" que tiene el valor de color negro, y también un "color" que modifica el color de fuente a blanco*/
 .black{
   background-color: black;
   color: white;
